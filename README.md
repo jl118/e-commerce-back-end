@@ -29,7 +29,7 @@
   
   This is a database and has no front end, but the data can be manipulated with api routes in a program like Insomnia. 
 
-  A demo video showing the functionality can be found (here)[].
+  A demo video showing the functionality can be found [here](https://drive.google.com/file/d/17J0vLKpvuN4v3VQDPINF53jPSKCrkahH/view).
     
   ## License
  
